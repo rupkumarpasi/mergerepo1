@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shree Krishna
+# 👋 Hi, I'm Rup Kumar
 Welcome to my GitHub profile!
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rupkumar&theme=dark)
