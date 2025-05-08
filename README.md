@@ -1,7 +1,7 @@
 
 <!-- Animated name using SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Rup+Kumar!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=white&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Rup+Kumar!" alt="Typing SVG" />
 </p>
 
 <!-- GitHub Streak -->
